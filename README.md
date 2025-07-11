@@ -52,8 +52,6 @@ All queries and analysis were done independently from scratch, even though the d
 - `Menu Table Analysis.sql` — Analysis queries focused on the `menu_items` table (e.g., pricing, categories).
 - `Order Details Analysis.sql` — Analysis queries focused on the `order_details` table (e.g., order volumes, dates).
 - `Advanced Analysis.sql` — Advanced analysis using joins between `menu_items` and `order_details` to uncover customer and cuisine patterns.
-- `insights_summary.pdf` — Summary report of key findings.
-
 ## Skills Demonstrated
 - Data exploration & cleaning
 - Writing optimized SQL queries
